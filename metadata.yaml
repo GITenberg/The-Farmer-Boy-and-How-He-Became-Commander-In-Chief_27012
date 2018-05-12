@@ -1,0 +1,34 @@
+_repo: The-Farmer-Boy-and-How-He-Became-Commander-In-Chief_27012
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heady, Morrison
+    alias: Heady, James Morrison
+    birthdate: 1829
+    deathdate: 1915
+    gutenberg_agent_id: '32396'
+    url: http://www.gutenberg.org/2009/agents/32396
+  editor:
+    agent_name: Thayer, William Makepeace
+    alias: Thayer, William M. (William Makepeace)
+    birthdate: 1820
+    deathdate: 1898
+    gutenberg_agent_id: '3095'
+    url: http://www.gutenberg.org/2009/agents/3095
+description: A narrative, for children, of the life of George Washington before 1775.
+gutenberg_issued: '2008-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington, George, 1732-1799'
+- !lcc 'E300'
+title: The Farmer Boy, and How He Became Commander-In-Chief
+url: http://www.gutenberg.org/ebooks/27012
