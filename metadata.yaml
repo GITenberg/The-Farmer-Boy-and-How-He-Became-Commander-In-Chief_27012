@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '3095'
     url: http://www.gutenberg.org/2009/agents/3095
 description: A narrative, for children, of the life of George Washington before 1775.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27012#The-Farmer-Boy-and-How-He-Became-Commander-In-Chief
 gutenberg_issued: '2008-10-24'
 gutenberg_type: Text
 identifiers:
